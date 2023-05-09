@@ -20,7 +20,7 @@ Possible KPIs include(but not limited to):
 
 # Data Sourcing
 
-The Dataset used for this analysis was given by [Pwc Switzerland](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience) and available at:
+The Dataset used for this analysis was provided by [Pwc Switzerland](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience) and available at:
 
 - [Call Center Dataset](https://github.com/rishikeshxyadav/PwC-Call-centrer-Trends/blob/main/01%20Call-Center-Dataset.xlsx)
 
